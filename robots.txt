@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohphohshu.studio-eve.com/sitemap.xml
